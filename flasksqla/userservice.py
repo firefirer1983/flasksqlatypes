@@ -1,5 +1,5 @@
 from typing_extensions import reveal_type
-from flasksqla.models import User
+from flasksqla.baseorm import User
 from flasksqla.extensions import db
 
 
