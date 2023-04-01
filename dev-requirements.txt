@@ -1,0 +1,19 @@
+-r requirements.txt
+pre-commit
+pre-commit-hooks
+flake8
+pycln
+mypy
+mypy-extensions
+black
+isort
+mypy
+typed-ast
+types-click
+types-Flask
+types-Jinja2
+types-MarkupSafe
+types-PyMySQL
+types-Werkzeug
+types-flask-sqlalchemy
+typing-inspect
